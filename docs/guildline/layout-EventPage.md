@@ -40,23 +40,6 @@ sidebar: true
 <img src="./img/layout/eventpage/guildline-layout-eventpage02.png" style="max-width:100%;">
 </div>
 
-## 常見問題
-
-```
-- 有色背景 -
-背景色#F4F8FA(primary-1)
-標題#00a19b(primary-8)
-
-- 線框白底 -
-線框#D9D9D9(gray-5)
-標題#00a19b(primary-8)
-```
-
-<div class="container mx-auto my-8 px-4">
-<img src="./img/layout/eventpage/guildline-layout-eventpage13.png" style="max-width:100%;">
-</div>
-
-
 ## Footer
 ```
 依據現行規範，各網頁Footer皆統一，但可根據是否有提到警示內容，決定是否需要加入警語。
